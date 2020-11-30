@@ -6,4 +6,3 @@ class Event(models.Model):
     event_text = models.CharField(max_length=300)
 
 
-
